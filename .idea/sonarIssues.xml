@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ansible-examples/ansible.cfg">
           <value>
             <set />
@@ -24,6 +29,41 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/git.role/tasks/main.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/git.role/tasks/remove-CentOS.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/git.role/tasks/remove-Ubuntu.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/git.role/tasks/setup-CentOS.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/git.role/tasks/setup-Ubuntu.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/git.role/tasks/variables.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/git.role/vars/CentOS-7.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/git.role/vars/Ubuntu-16.yml">
           <value>
             <set />
           </value>
