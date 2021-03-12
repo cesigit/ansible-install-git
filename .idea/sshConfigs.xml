@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="localhost" id="0f988c80-ed17-4efa-b837-3124afaccc60" port="22" nameFormat="DESCRIPTIVE" />
+      <sshConfig host="51.68.28.210" id="7ad823e4-62b2-4eb5-a31f-fe75623302dc" keyPath="D:\project\id_rsa" port="22" customName="remote" nameFormat="CUSTOM" username="centos">
+        <option name="customName" value="remote" />
+      </sshConfig>
+      <sshConfig host="170.75.164.114" id="0af4c468-838b-47a5-9efc-e1c5e960a289" keyPath="D:\project\id_rsa" port="22" customName="ansible-controller" nameFormat="CUSTOM" username="centos">
+        <option name="customName" value="ansible-controller" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
