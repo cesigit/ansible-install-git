@@ -1,0 +1,12 @@
+---
+git_packages:
+  - bison
+  - build-base
+  - tcl
+  - make
+  - autoconf
+  - flex
+  - gcc
+  - openssl-dev
+  - perl-utils
+  - zlib-dev

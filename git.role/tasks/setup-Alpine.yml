@@ -1,0 +1,8 @@
+---
+- name: Update cache on Alpine
+  apk:
+    update_cache: true
+- name: Check if all packages are installed (Alpine)
+  apk:
+    name: "{{ git_packages }}"
+    state: present
